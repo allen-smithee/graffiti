@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.transistorsoft.backgroundgeolocation" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Graffiti</name>
+    <description>
+        Graffiti maps.
+    </description>
+    <author email="none@none" href="http://graffiti.io">
+        Graffiti
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
